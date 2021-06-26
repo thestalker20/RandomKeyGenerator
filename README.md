@@ -15,13 +15,13 @@ Usage:
 
 ## Final Result will be someting like this:
 ```
-How many letters do you want? --> *12*
+How many letters do you want? --> ** 12 **
 NUMBER OF LETTERS SET TO 12
 
-Wanna see integer value of the keys? (YES/NO) --> *y*
+Wanna see integer value of the keys? (YES/NO) --> ** y **
 SHOW VALUES(IF LETTERS NO. LESS THAN 8 IT WON'T APPEAR) : ON
 
-HOW MANY KEYS DO YOU WANT? --> *3*
+HOW MANY KEYS DO YOU WANT? --> ** 3 **
 GENERATING 3 KEYS IN A MOMENT.
 
 1 FOUND! in 0.0 s
