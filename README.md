@@ -13,9 +13,9 @@ Usage:
 
 - Finally type how many keys you want and WAIT :)
 
-##Final Result will be someting like this:
-
-`How many letters do you want? --> 12
+## Final Result will be someting like this:
+```
+How many letters do you want? --> 12
 NUMBER OF LETTERS SET TO 12
 
 Wanna see integer value of the keys? (YES/NO) --> y
@@ -34,4 +34,5 @@ RXUI-VNIU-PFMP:897
 ZTKZ-BYZU-JQYQ:934
 PRUZ-HZOT-VBHO:905
 
-TIME TAKEN: 0.015615463256835938 s`
+TIME TAKEN: 0.015615463256835938 s
+```
