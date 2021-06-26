@@ -5,17 +5,17 @@ This python script generates random uppercase letters and numbers like license k
 
 Usage:
 
->>python3 keygen.py
+>python3 keygen.py
 
-It will ask for the lenth of the KEY.
+- It will ask for the lenth of the KEY.
 
-Then it will ask for the value of the KEY. You can find the value of each in the sorce code and it is preferred to change each value.
+- Then it will ask for the value of the KEY. You can find the value of each in the sorce code and it is preferred to change each value.
 
-Finally type how many keys you want and WAIT :)
+- Finally type how many keys you want and WAIT :)
 
-#Final Result will be someting like this:
+##Final Result will be someting like this:
 
-How many letters do you want? --> 12
+`How many letters do you want? --> 12
 NUMBER OF LETTERS SET TO 12
 
 Wanna see integer value of the keys? (YES/NO) --> y
@@ -34,4 +34,4 @@ RXUI-VNIU-PFMP:897
 ZTKZ-BYZU-JQYQ:934
 PRUZ-HZOT-VBHO:905
 
-TIME TAKEN: 0.015615463256835938 s
+TIME TAKEN: 0.015615463256835938 s`
