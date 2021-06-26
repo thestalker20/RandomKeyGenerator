@@ -13,7 +13,7 @@ Then it will ask for the value of the KEY. You can find the value of each in the
 
 Finally type how many keys you want and WAIT :)
 
-Final Result will be someting like this:
+#Final Result will be someting like this:
 
 How many letters do you want? --> 12
 NUMBER OF LETTERS SET TO 12
